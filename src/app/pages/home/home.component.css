@@ -1,0 +1,22 @@
+body {
+	background-color: blue;
+	background-image:url("/../../assets/background1.jpg");
+	background-size: cover;
+	width:500vw;
+}
+.card {
+	background-color: #121212;
+
+}
+
+.row {
+	background-image:url("/../../assets/background1.jpg");
+	background-size: cover;
+	width:100vw;
+
+}
+
+.container {
+	margin: 0px;
+	padding: 0px;
+}

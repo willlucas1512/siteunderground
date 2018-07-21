@@ -2,15 +2,17 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 import { NavbarComponent } from './navbar/navbar.component';
-import { PokemonsComponent } from './pages/pokemons/pokemons.component';
+import { ContatoComponent } from './pages/contato/contato.component';
 import { HomeComponent } from './pages/home/home.component';
-import { BerriesComponent } from './pages/berries/berries.component';
+import { SobrenosComponent } from './pages/sobrenos/sobrenos.component';
+import { LoginComponent } from './pages/login/login.component';
 
 const appRoutes: Routes = [
 	{ path: 'home', component: HomeComponent },
 	{ path: '', redirectTo: '/home', pathMatch: 'full' },
-	{ path: 'pokemons', component: PokemonsComponent },
-	{ path: 'berries', component: BerriesComponent },
+	{ path: 'contato', component: ContatoComponent },
+	{ path: 'sobrenos', component: SobrenosComponent },
+	{ path: 'login', component: LoginComponent }
 
 ];
 

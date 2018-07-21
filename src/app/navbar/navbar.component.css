@@ -1,0 +1,21 @@
+.nav-wrapper {
+	background-color:black;
+	background-border:black;
+	height:112px;
+}
+.nav-extended {
+	background-color: #000000;
+
+}
+
+.sidenav-trigger {
+	background-color: #000000;
+}
+.material-icons {
+	background-color: #000000;
+}
+
+.brand-logo {
+	font-family: 'Coda Caption', sans-serif;
+	height: 100%;
+}

@@ -3,18 +3,22 @@ import { NgModule } from '@angular/core';
 import {MaterializeModule} from 'angular2-materialize';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
-import { PokemonsComponent } from './pages/pokemons/pokemons.component';
 import { HomeComponent } from './pages/home/home.component';
-import { BerriesComponent } from './pages/berries/berries.component';
-import { AppRoutingModule } from './app.routing.module'
+import { AppRoutingModule } from './app.routing.module';
+import { ContatoComponent } from './pages/contato/contato.component';
+import { SobrenosComponent } from './pages/sobrenos/sobrenos.component';
+import { LoginComponent } from './pages/login/login.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    PokemonsComponent,
     HomeComponent,
-    BerriesComponent
+    ContatoComponent,
+    SobrenosComponent,
+    LoginComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
