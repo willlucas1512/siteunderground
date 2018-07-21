@@ -4,7 +4,9 @@
 	height:112px;
 }
 .nav-extended {
-	background-color: #000000;
+	background-image:url("/../../assets/background1.jpg");
+	background-repeat: no-repeat; 
+	background-size: 100%;
 
 }
 
@@ -18,4 +20,14 @@
 .brand-logo {
 	font-family: 'Coda Caption', sans-serif;
 	height: 100%;
+	font-size: 60px;
+}
+#subtitulo {
+	font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    margin-left: 27%;
+    margin-right: auto;
+    background-color: transparent;
+    color:#000000;
+    text-align: center;
 }
