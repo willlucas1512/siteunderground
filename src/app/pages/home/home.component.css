@@ -4,10 +4,11 @@ body {
 	background-size: 100%;
 	background-attachment: fixed;
 	background-repeat: no-repeat; 
-	width:100vw;
+	width:100%;
 }
 .card-image {
 	background-image:url('/../../assets/background3.jpg');
+
 	
 }
 
@@ -16,22 +17,22 @@ body {
 	background-size: 100%;
 	background-attachment: fixed;
 	background-repeat: no-repeat; 
-	width:100vw;
+	width:100%;
 	margin:0px;
 
 }
 
 .container {
-	margin: 0px;
+	margin: auto;
 	padding: 0px;
 	background-color:#DCDCDC;
+	width:100%;
 }
 
 .card-title {
-	height:20px;
-	width:30px;
-	margin-left: auto;
-	margin-right: auto;
+	height:50%;
+	width:50%;
+	margin:auto;
 }
 h4 {
 	color:#151515;
@@ -45,7 +46,7 @@ nav {
 }
 
 .img {
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 5%;
+	margin-bottom: 5%;
 
 }

@@ -2,11 +2,14 @@
 	background-color:black;
 	background-border:black;
 	height:112px;
+	width:100%;
 }
 .nav-extended {
 	background-image:url("/../../assets/background1.jpg");
 	background-repeat: no-repeat; 
 	background-size: 100%;
+	margin-bottom: 0px;
+	width:100%;
 
 }
 
@@ -30,4 +33,10 @@
     background-color: transparent;
     color:#000000;
     text-align: center;
+}
+
+#nav-mobile {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 20px;
+
 }
