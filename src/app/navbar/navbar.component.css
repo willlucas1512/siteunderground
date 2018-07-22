@@ -3,12 +3,13 @@
 	background-border:black;
 	height:112px;
 	width:100%;
+	margin-bottom: 0;
 }
 .nav-extended {
 	background-image:url("/../../assets/background1.jpg");
 	background-repeat: no-repeat; 
 	background-size: 100%;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 	width:100%;
 
 }

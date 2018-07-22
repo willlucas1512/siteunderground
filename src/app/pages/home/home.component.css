@@ -6,10 +6,13 @@ body {
 	background-repeat: no-repeat; 
 	width:100%;
 }
+
 .card-image {
 	background-image:url('/../../assets/background3.jpg');
-
-	
+	padding-left:8%;
+	padding-right:8%;
+	padding-top: 4%;
+	padding-bottom: 4%;
 }
 
 .row {
@@ -48,5 +51,4 @@ nav {
 .img {
 	margin-top: 5%;
 	margin-bottom: 5%;
-
 }
