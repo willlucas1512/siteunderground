@@ -5,8 +5,18 @@ h3 {
 
 .row {
     background-image:url('/../assets/background1.jpg');
+    padding-bottom: 2%;
 }
 
 body {
 	background-image:url('/../assets/background1.jpg');
+}
+
+#since {
+	size:20%;
+}
+.container {
+	margin-left: 10%;
+	margin-right: 10%;
+
 }

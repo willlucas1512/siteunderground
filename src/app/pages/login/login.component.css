@@ -1,0 +1,31 @@
+h3,h4 {
+   font-family: 'Fjalla One', sans-serif;
+   text-align: center;
+}
+
+body {
+	background-image:url('/../assets/background1.jpg');
+}
+.row {
+    margin:0;
+	padding:0px;
+}
+
+.container {
+	text-align:center;
+	margin-bottom:5%;
+}
+
+span {
+	font-family: 'Fjalla One', sans-serif;
+	font-size:x-large;
+}
+.btn {
+	background-color: black;
+
+}
+
+#btn2 {
+	margin-bottom: 5%;
+
+}
